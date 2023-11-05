@@ -315,8 +315,8 @@
   "ASSETCATALOG": "AccentColor",
   "DEVICE_FAMILY": "1843"
 },
-CO: 201,
-MSG: "SUCCESS"
+"CO": 201,
+"MSG": "SUCCESS"
 }
     /*******************#***************************/
 		5DCF37C02AB078910011D458 /* Release */ = {
